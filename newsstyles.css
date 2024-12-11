@@ -1,0 +1,158 @@
+.Mainbox {
+    width: 1280px;
+    height: 1200px;
+    background-color: white;
+    
+    
+}
+
+.HeaderBox {
+    width: 1280px;
+    height: 75px;
+    background-color: red;
+}
+
+.HeaderBoxText {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: small;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    box-sizing: border-box;
+    color: white;
+}
+
+.HeaderBoxTextFirst {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: small;
+    margin-left: 200px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    box-sizing: border-box;
+    color: white;
+}
+
+.SecondBox {
+    width: 1280px;
+    height: 100px;
+    background-color: white;
+}
+
+.SecondBoxText {
+    font-family: sans-serif;
+    font-size: 8pt;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+}
+
+.SecondBoxTextFirst {
+    font-family: sans-serif;
+    font-size: 8pt;
+    margin-left: 250px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    color: red;
+    font-weight: 700;
+}
+
+.HR {
+    margin-left: 220px;
+    float: left;
+}
+
+.SecondBoxIMG {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+}
+
+.NewsBox{
+    margin-left: 98px;
+    margin-right: 98px;
+    width: 1076px;
+    margin-bottom: 20px;
+    height: 300px;
+    float:left;
+    background-image: url(Images/gray\ layout.jpg );
+    
+}
+.PhotoBox{
+    width: 350px;
+    height: 250px;
+    border: 3px solid white;
+    margin: 25px;
+    float: left;
+    
+}
+.TextBox{
+    width: 600px;
+    height: 250px;
+    
+    margin: 25px;
+    float: left;
+    
+}
+.RedText{
+    font-family: sans-serif;
+    color: red;
+    font-size: 15px;
+    font-weight: 700;
+}
+.HeadingText{
+    font-family: sans-serif;
+    color: navy;
+    font-size: 20px;
+    font-weight: 700;
+}
+.MainText{
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+.SignText{
+    font-family: sans-serif;
+    color: gray;
+    font-size: 15px;
+    font-style: italic;
+    float: right;
+}
+main a:link{
+    color: black;
+    text-decoration: none;
+}
+main a:hover{
+    color: lightslategray;
+    font-size: 25px;
+    
+}
+main a:visited{
+    color: black;
+}
+
+.FooterBox {
+    width: 1280px;
+    height: 30px;
+    background-color: red;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    
+}
+.WhiteText{
+    color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
